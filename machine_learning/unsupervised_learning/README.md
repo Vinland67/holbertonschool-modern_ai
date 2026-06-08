@@ -1,3 +1,3 @@
-# Unsupervised Learning
+# Unsupervised Learning - Feature Standardization
 
-This directory contains tasks for unsupervised learning, including feature standardization.
+This project focuses on preprocessing data for unsupervised learning algorithms by standardizing features.
