@@ -1,3 +1,2 @@
 # Unsupervised Learning - Feature Standardization
-
-Project about standardizing data using sklearn.
+This project focuses on preprocessing data for unsupervised learning.
